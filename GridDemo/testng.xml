@@ -6,7 +6,7 @@
 
     <parameter name="browser" value="chrome"/> 
 
-    <parameter name="gridUrl" value="http://172.21.224.84:4444/"/> 
+    <parameter name="gridUrl" value="http://172.20.194.133:4444/"/> 
 
     <classes> 
 
@@ -22,7 +22,7 @@
 
     <parameter name="browser" value="firefox"/> 
 
-    <parameter name="gridUrl" value="http://172.21.224.84:4444/"/> 
+    <parameter name="gridUrl" value="http://172..20.194.133:4444/"/> 
 
     <classes> 
 
